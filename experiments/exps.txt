@@ -1,0 +1,60 @@
+Accuracy: 0.5046
+
+
+optim_wd = 0.01
+epochs = 50
+hidden_dim = 200
+dropout = 0.1
+num_layers = 2
+lr = 0.1
+node_emb_dim = 1
+batch_size = 10
+
+
+Accuracy: 0.6325
+
+optim_wd = 0.01
+epochs = 50
+hidden_dim = 200
+dropout = 0.1
+num_layers = 2
+lr = 0.01
+node_emb_dim = 1
+batch_size = 20
+
+Accuracy: 0.6493
+
+optim_wd = 0.01
+epochs = 150
+hidden_dim = 200
+dropout = 0.1
+num_layers = 3
+lr = 0.005
+node_emb_dim = 1
+batch_size = 20
+
+
+Accuracy 0.7487
+
+optim_wd = 0.001
+epochs = 200
+hidden_dim = 150
+dropout = 0.2
+num_layers = 5
+lr = 0.001
+node_emb_dim = 1
+batch_size = 10
+
+
+
+Accuracy 0.5911
+
+
+optim_wd = 0.001
+epochs = 50
+hidden_dim = 150
+dropout = 0.2
+num_layers = 5
+lr = 0.01
+node_emb_dim = 1
+batch_size = 10
